@@ -14,7 +14,7 @@ const Footer = () => {
                                         <img className='h-[35px] w-[35px] mr-2' src={logoimg} alt="" />
                                         <a className="font-bold text-xl">HERO.IO</a>
                                     </div>
-                    <p className='text-xs'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p className='text-xs'>Hero IO is a modern and responsive web application that showcases a curated collection of mobile apps. It allows users to explore, search, and install their favorite apps effortlessly. With an elegant interface, smooth interactions, and real-time data visualization, Hero IO provides a dynamic and engaging experience for every user.</p>
                 </div>
                 <div className='md:ml-14'>
                     <h3 className='text-xl font-medium text-white mb-3'>Company</h3>
